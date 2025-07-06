@@ -1,0 +1,6 @@
+{
+    "modulus": 2097151,
+    "multiplier": 512,
+    "increment": 144,
+    "initial_value": 3
+}
