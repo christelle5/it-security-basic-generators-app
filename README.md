@@ -17,7 +17,7 @@
 
 - Python 3
 - PyCryptodome
-- PyQt5 *(or Tkinter, depending on your GUI)*
+- Tkinter
 - PyInstaller (for `.exe` build)
 
 ### 🛆 Installation & Usage
